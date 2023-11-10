@@ -1,0 +1,12 @@
+TASK No 3
+
+Tabel biasa :
+
+    insert into events_row(device_id, data)
+    SELECT d, '{"hello":"columnar"}' FROM generate_series(1, 100) d;
+
+
+Tabel columnar :
+
+    insert into events_columnar(device_id, data)
+    SELECT d, '{"hello":"columnar"}' FROM generate_series(1, 100) d;

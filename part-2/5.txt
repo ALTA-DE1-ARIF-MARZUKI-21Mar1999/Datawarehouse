@@ -1,0 +1,11 @@
+TASK No 5
+
+Kesimpulan :
+
+Tabel columnar dan tabel biasa adalah dua jenis tabel yang berbeda dalam hal ukuran. 
+Tabel biasa memiliki ukuran yang tetap untuk setiap kolom dan baris, sedangkan tabel columnar memiliki ukuran yang bervariasi untuk setiap kolom. 
+Dalam tabel columnar, setiap kolom dapat memiliki ukuran yang berbeda tergantung pada data yang disimpan di dalamnya. 
+Ini memungkinkan tabel columnar untuk lebih efisien dalam menyimpan data dengan banyak kolom.
+
+Sementara itu, tabel biasa memiliki ukuran tetap untuk setiap kolom dan baris. 
+Ini membuat tabel biasa lebih mudah dibaca dan dipahami oleh manusia, tetapi kurang efisien dalam menyimpan data dengan banyak kolom.

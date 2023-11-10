@@ -1,0 +1,18 @@
+TASK No 2
+
+Teknologi database untuk data warehouse (OLAP) berbeda dengan teknologi database konvensional (OLTP) dalam beberapa hal. 
+OLAP digunakan untuk menganalisis data yang besar dan kompleks dengan cepat, sedangkan OLTP digunakan untuk mengelola transaksi sehari-hari dalam suatu perusahaan. 
+
+Berikut adalah perbedaan antara OLAP dan OLTP:
+
+- OLAP:
+    * Digunakan untuk menganalisis data yang besar dan kompleks.
+    * Menggunakan OnLine Analytical Processing (OLAP).
+    * Memiliki kinerja tinggi untuk permintaan analitis.
+    * Memiliki tabel dan gabungan sederhana untuk mengurangi waktu respon serta permintaan analitis.
+
+- OLTP:
+    * Digunakan untuk mengelola transaksi sehari-hari dalam suatu perusahaan.
+    * Menggunakan OnLine Transactional Processing (OLTP).
+    * Memiliki kinerja tinggi untuk operasi menulis.
+    * Memiliki tabel dan gabungan yang kompleks untuk memastikan integritas data.

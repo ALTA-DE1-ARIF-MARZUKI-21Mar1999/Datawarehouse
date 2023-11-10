@@ -1,0 +1,12 @@
+TASK No 1
+
+Replikasi dan sharding adalah dua teknik yang digunakan untuk meningkatkan kinerja database dan memastikan ketersediaan data. 
+
+Replikasi adalah proses membuat salinan data dari server utama ke beberapa server lainnya. 
+Tujuannya adalah untuk meningkatkan ketersediaan data dan memastikan bahwa jika satu server gagal, data masih tersedia di server lainnya. 
+
+Sharding adalah proses mempartisi data menjadi beberapa bagian dan menyimpannya di beberapa server. 
+Tujuannya adalah untuk meningkatkan kinerja database dengan mempercepat operasi baca/tulis pada data yang besar. 
+Dalam hal ini, setiap server bertanggung jawab atas sebagian data, sehingga waktu respons dapat ditingkatkan.
+
+Sederhananya, replikasi digunakan untuk meningkatkan ketersediaan data, sedangkan sharding digunakan untuk meningkatkan kinerja database.

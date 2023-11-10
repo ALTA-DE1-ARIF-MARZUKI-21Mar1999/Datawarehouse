@@ -1,0 +1,10 @@
+TASK No 5
+
+Access method heap dan columnar adalah dua metode penyimpanan data yang berbeda pada Citus. 
+Access method heap adalah metode penyimpanan data berbasis baris, sedangkan access method columnar adalah metode penyimpanan data berbasis kolom.
+
+Pada metode heap, data disimpan dalam bentuk baris dan diakses secara sekuensial. 
+Metode ini cocok untuk aplikasi yang membutuhkan akses acak ke data. 
+
+Sedangkan pada metode columnar, data disimpan dalam bentuk kolom dan diakses secara vertikal. 
+Metode ini cocok untuk aplikasi yang membutuhkan akses sekuensial ke data.

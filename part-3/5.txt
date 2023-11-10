@@ -1,0 +1,6 @@
+TASK No 5
+
+Replication datawarehouse digunakan ketika kita ingin mempercepat proses pengambilan data dari sumber data yang berbeda. 
+Dalam hal ini, kita membuat salinan data dari sumber data tersebut ke dalam data warehouse. 
+Dengan demikian, ketika kita ingin mengambil data dari sumber tersebut, kita tidak perlu lagi mengakses sumber data asli, 
+melainkan cukup mengambil data dari salinan yang telah disimpan di dalam data warehouse.

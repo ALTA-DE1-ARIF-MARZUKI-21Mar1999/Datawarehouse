@@ -1,0 +1,6 @@
+TASK No 6
+
+Sharding datawarehouse digunakan ketika kita ingin mempercepat proses pengambilan data dari sumber data yang berbeda. 
+Dalam hal ini, kita membagi data menjadi beberapa bagian dan menyimpannya di beberapa server database yang berbeda. 
+Dengan demikian, ketika kita ingin mengambil data dari sumber tersebut, 
+kita dapat mengambil data dari beberapa server database secara bersamaan, sehingga proses pengambilan data menjadi lebih cepat.

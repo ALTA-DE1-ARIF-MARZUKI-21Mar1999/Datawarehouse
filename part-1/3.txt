@@ -1,0 +1,34 @@
+TASK No 3
+
+Berikut adalah beberapa teknologi yang umumnya digunakan untuk membangun data warehouse :
+
+1. Amazon Redshift : Layanan cloud-hosted analytics database dari Amazon Web Services (AWS) yang memungkinkan pengguna untuk menganalisis data menggunakan SQL dan alat BI yang sudah ada. 
+Redshift didasarkan pada teknologi dari ParAccel Analytic Database dan didukung oleh teknologi columnar storage dan massively parallel query execution. 
+Beberapa fitur unggulan dari Redshift antara lain dukungan untuk data warehousing, integrasi dengan alat BI, dan kemampuan untuk melakukan analisis data secara real-time.
+
+2. Google BigQuery : Layanan cloud-hosted analytics database dari Google Cloud yang memungkinkan pengguna untuk menganalisis data menggunakan SQL dan alat BI yang sudah ada. 
+BigQuery didesain untuk memproses data dalam skala besar dengan cepat dan efisien, serta mendukung fitur-fitur seperti machine learning dan geospatial analysis. 
+Beberapa kelebihan dari BigQuery antara lain kemampuan untuk melakukan analisis data secara real-time, dukungan untuk SQL standar, dan kemampuan untuk melakukan federated queries.
+
+3. ClickHouse : Database open-source column-oriented yang dikembangkan oleh Yandex. 
+ClickHouse didesain untuk memberikan performa tinggi dalam melakukan analisis data. 
+ClickHouse mendukung berbagai jenis data types, termasuk integer, string, date, dan float. 
+Beberapa fitur unggulan dari ClickHouse antara lain dukungan untuk SQL standar, kemampuan untuk melakukan analisis data secara real-time, dan kemampuan untuk melakukan distributed queries.
+
+4. Snowflake : Layanan cloud-based data warehousing yang memungkinkan pengguna untuk menganalisis data menggunakan SQL dan alat BI yang sudah ada. 
+Snowflake didesain untuk memproses data dalam skala besar dengan cepat dan efisien, serta mendukung fitur-fitur seperti machine learning dan geospatial analysis. 
+Beberapa kelebihan dari Snowflake antara lain kemampuan untuk melakukan analisis data secara real-time, dukungan untuk SQL standar, dan kemampuan untuk melakukan federated queries.
+
+5. Databricks : Platform cloud-based yang memungkinkan pengguna untuk melakukan analisis data secara real-time menggunakan SQL, Python, R, Scala, atau Java. 
+Databricks didesain untuk memproses data dalam skala besar dengan cepat dan efisien, serta mendukung fitur-fitur seperti machine learning dan streaming analytics. 
+Beberapa kelebihan dari Databricks antara lain kemampuan untuk melakukan analisis data secara real-time, dukungan untuk berbagai jenis bahasa pemrograman, dan kemampuan untuk melakukan integrasi dengan berbagai jenis sumber data.
+
+6. Apache Doris : Platform open-source column-oriented yang dikembangkan oleh Apache Software Foundation. 
+Doris didesain untuk memberikan performa tinggi dalam melakukan analisis data di lingkungan big data. 
+Doris mendukung berbagai jenis data types, termasuk integer, string, date, dan float. 
+Beberapa fitur unggulan dari Doris antara lain dukungan untuk SQL standar, kemampuan untuk melakukan analisis data secara real-time, dan kemampuan untuk melakukan distributed queries.
+
+7. PostgreSQL (dengan citus extension) : Database open-source relasional yang mendukung berbagai jenis bahasa pemrograman seperti C++, Java, Python, Ruby, dll. 
+PostgreSQL juga mendukung berbagai jenis data types seperti integer, string, date, dll. 
+Citus extension adalah ekstensi PostgreSQL yang memungkinkan pengguna untuk melakukan distributed queries pada PostgreSQL cluster. 
+Beberapa kelebihan dari PostgreSQL antara lain dukungan untuk SQL standar, kemampuan untuk melakukan integrasi dengan berbagai jenis sumber data, serta dukungan komunitas yang kuat.

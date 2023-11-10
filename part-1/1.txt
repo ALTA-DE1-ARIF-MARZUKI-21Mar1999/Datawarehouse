@@ -1,0 +1,12 @@
+TASK  No 1
+
+Data Warehouse dan Data Lake adalah dua konsep yang berbeda dalam pengelolaan data. 
+Data Warehouse adalah database yang menyimpan data yang telah diproses sebelumnya dan diatur dengan baik untuk tujuan analitik. 
+Di sisi lain, Data Lake adalah repositori umum yang mampu menyimpan data dalam jumlah besar tanpa mempertahankan struktur data tertentu. 
+Data Lake dapat menyimpan data mentah atau tidak terstruktur dalam format mentahnya, dan tujuannya mungkin atau mungkin belum ditentukan. 
+Data Lake biasanya digunakan untuk membangun dasbor, pembelajaran mesin, atau analitik waktu nyata 1.
+
+Perbedaan utama antara Data Warehouse dan Data Lake adalah pada jenis data yang disimpan dan cara penggunaannya. 
+Data Warehouse hanya menyimpan data yang telah diproses sebelumnya dan diatur dengan baik untuk tujuan analitik, 
+sedangkan Data Lake dapat menyimpan semua jenis data seperti struktur, tidak terstruktur dalam format mentahnya. 
+Karena itu, Data Lake memerlukan kapasitas penyimpanan yang jauh lebih besar daripada Data Warehouse. 
